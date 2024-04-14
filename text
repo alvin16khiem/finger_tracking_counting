@@ -1,0 +1,20 @@
+#ret
+một biến boolean chỉ ra liệu việc đọc khung hình đã thành công hay không
+Nếu khung hình được đọc thành công, giá trị của ret sẽ là True, ngược lại sẽ là False.
+
+#frame
+biến chứa khung hình được đọc từ video stream.
+Đây là một mảng NumPy chứa dữ liệu hình ảnh của khung hình.
+
+#.append()
+Phương thức .append() là một cách tiện lợi và hiệu quả để thêm phần tử vào một list
+mà không cần phải tạo một list mới hoặc chỉnh sửa các phần tử hiện có trong list.
+
+#len()
+Trong Python, hàm len() được sử dụng để đếm số lượng phần tử trong một đối tượng có thể lặp lại như
+list, tuple, chuỗi, hoặc bất kỳ đối tượng nào mà bạn muốn biết số lượng phần tử của nó.
+
+#[1,510,570] thể hiện [0,1,2]
+0 là vị trí
+1 chiều rộng x
+2 chiều cao y
